@@ -3,7 +3,7 @@ This is a portfolio website I made for a client looking to showcase his artwork.
 
 Link to project: https://dylanferger.github.io/Tommy-Website/home.html
 
-![Website Screenshot](example.png)
+![Website Screenshot](images/example.png)
 
 How It's Made:
 Tech used: HTML, CSS, JavaScript
